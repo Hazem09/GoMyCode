@@ -1,0 +1,3 @@
+Once upon a time in a land of code.
+There lived a Python script.
+It loved to process data every day.
