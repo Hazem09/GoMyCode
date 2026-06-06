@@ -1,0 +1,4 @@
+.vscode
+*.spec
+dist
+build
