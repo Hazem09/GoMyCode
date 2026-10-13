@@ -2,3 +2,7 @@
 *.spec
 dist
 build
+*.db
+.jupyter
+.ipynb_checkpoints
+.kilo
