@@ -1,1 +1,5 @@
-{"name": "Alice", "role": "Developer", "id": 101}
+{
+    "name": "Alice",
+    "role": "Developer",
+    "id": 101
+}
